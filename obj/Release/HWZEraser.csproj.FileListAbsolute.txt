@@ -1,0 +1,10 @@
+C:\Users\John\Dropbox\sorainnosia.com\[Work]\HWZEraser\HWZEraser\bin\Release\HWZEraser.exe.config
+C:\Users\John\Dropbox\sorainnosia.com\[Work]\HWZEraser\HWZEraser\bin\Release\HWZEraser.exe
+C:\Users\John\Dropbox\sorainnosia.com\[Work]\HWZEraser\HWZEraser\bin\Release\HWZEraser.pdb
+C:\Users\John\Dropbox\sorainnosia.com\[Work]\HWZEraser\HWZEraser\obj\Release\HWZEraser.csproj.HWZEraser.exe.config
+C:\Users\John\Dropbox\sorainnosia.com\[Work]\HWZEraser\HWZEraser\obj\Release\HWZEraser.Form1.resources
+C:\Users\John\Dropbox\sorainnosia.com\[Work]\HWZEraser\HWZEraser\obj\Release\HWZEraser.Properties.Resources.resources
+C:\Users\John\Dropbox\sorainnosia.com\[Work]\HWZEraser\HWZEraser\obj\Release\HWZEraser.csproj.GenerateResource.Cache
+C:\Users\John\Dropbox\sorainnosia.com\[Work]\HWZEraser\HWZEraser\obj\Release\HWZEraser.exe
+C:\Users\John\Dropbox\sorainnosia.com\[Work]\HWZEraser\HWZEraser\obj\Release\HWZEraser.pdb
+C:\Users\John\Dropbox\sorainnosia.com\[Work]\HWZEraser\HWZEraser\obj\Release\HWZEraser.csprojResolveAssemblyReference.cache
